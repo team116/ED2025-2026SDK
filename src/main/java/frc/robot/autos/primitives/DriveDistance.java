@@ -2,7 +2,7 @@ package frc.robot.autos.primitives;
 
 import com.ctre.phoenix6.swerve.SwerveRequest;
 
-import edu.wpi.first.units.measure.DistanceUnit;
+import edu.wpi.first.units.DistanceUnit;
 import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.Commands;
 import edu.wpi.first.wpilibj2.command.SequentialCommandGroup;
